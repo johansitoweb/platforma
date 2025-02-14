@@ -1,1 +1,1 @@
-# platforma-Semilleros-Digital-INTRO
+# platforma
